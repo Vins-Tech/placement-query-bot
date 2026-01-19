@@ -3,6 +3,9 @@
 This repository contains the **core logic and architecture** for the BNMIT Placement Chatbot —  
 including the semantic router, FAQ processor, and SQL chain modules.
 
+![Architecture Diagram](1_architecture.jpeg)
+
+
 > ⚙️ This is the **development version** used to build and test routing logic, LLM response flow,  
 > and vector-based retrieval before deployment.
 
